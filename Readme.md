@@ -1,5 +1,6 @@
 ### Install colors
 ```mkdir ~/.vim && mkdir ~/.vim/colors```
+
 ```mv colors/*.vim ~/.vim/colors```
 
 ### Install .vimrc
